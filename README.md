@@ -21,4 +21,4 @@ Known hash/CRC types are:
 
 If `HashToCheck` is supplied, then it must be the hex of the expected hash, and a verification of whether it matches will be output rather than the hash itself.
 
-See [Checking the Hash or Checksum of a Download (Softwariness.com)](https://www.softwariness.com/musings/checking-the-hash-or-checksum-of-a-download/) for more information.
+See [Checking the Hash or Checksum of a Download (Softwariness.com)](https://www.softwariness.com/articles/checking-the-hash-or-checksum-of-a-download/) for more information.
